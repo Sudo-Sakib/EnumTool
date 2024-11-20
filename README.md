@@ -57,11 +57,11 @@ Check the response headers to see if the "X-Frame-Options" header is present. If
  9. WHOIS:
     The WHOIS information for the IP address is retrieved and displayed, providing details about the registered owner, organization, and other relevant                 information.
 
-****Installation*****
- git clone https://github.com/Sudo-Sakib/EnumTool.git
- cd EnumTool/
- pip install -r requirements.txt
+Installation:
+git clone https://github.com/Sudo-Sakib/EnumTool.git
+cd EnumTool/
+pip install -r requirements.txt
 
-****Run*****
+Run:
 python3 EnumTool.py
 
