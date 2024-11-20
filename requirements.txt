@@ -1,0 +1,10 @@
+phonenumbers
+requests
+webbrowser
+PyPDF2
+bs4
+urlopen
+threading
+dns
+dns.resolver
+ipwhois
