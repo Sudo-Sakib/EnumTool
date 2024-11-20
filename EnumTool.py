@@ -23,8 +23,7 @@ def main():
   |  $$$$$$$$$$/   $$$         \$$$$$|   $$$$$$$$$$$$$    $$$         /$$$$$\         $$$        $$$         $$$$$$$$            $$$$$$$$      $$$$$$$$$$$$$ |
   |/___\_/_\____/_/___\________/_____\___/___\_______\____\__/________/_____\_________/__\______/___\_______\________\___________\_______\____/_____________\|
     """)
-    print(Color.YELLOW + "                                           Created By : Sakib Sheikh and Naved Shaikh")
-    print(Color.YELLOW + "                                                     Roll No.: 732 & 731")
+    print(Color.YELLOW + "                                           Created By : Sakib")
     print(Color.GREEN + """
                 \nSelect From Available Modules 
            
