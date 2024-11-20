@@ -3,17 +3,15 @@ Enumeration Tool encompasses multiple modules related to information gathering, 
 
 A. Information Gathering:
 
-**Screenshot**
 ![Screenshot 2024-11-20 141106](https://github.com/user-attachments/assets/7d41f77a-1055-4ef2-a4db-c798ec181f0a)
 
-
  1. Phone Number Verifier:
-   ● User enters a phone number with a country code.
-   ● It validates if the number is valid.
-   ● Retrieves and displays timezone, carrier, location, number possibility, formatted number, and number type information.
+    User enters a phone number with a country code.
+    It validates if the number is valid.
+    Retrieves and displays timezone, carrier, location, number possibility, formatted number, and number type information.
  
  2. Single IP Locator:
-   ● User inputs an IP address.
+    User inputs an IP address.
    ● The script constructs an API URL with the provided IP address.
    ● It sends an HTTP request to the API and receives a JSON response.
    ● If the API response status is "success," it extracts and displays information about the IP address's location, including country, region, city, timezone,          ISP, latitude, and longitude.
