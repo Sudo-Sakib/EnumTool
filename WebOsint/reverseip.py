@@ -3,7 +3,7 @@ from color import Color
 
 def reverse_ip_lookup(host):
     try:
-        lookup = f'https://api.hackertarget.com/reverseiplookup/?q={host}'
+        lookup = f'<HACKER TARGET API KEY>={host}'
         response = requests.get(lookup)
         
         if response.status_code == 200:
